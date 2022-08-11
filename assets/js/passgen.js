@@ -13,7 +13,7 @@ function genPass() {
 // Copy password button
 function copy() {
     var copyText = document.getElementById("pass");
-    copyText.setSelectionRange(0, 9999); 
+    copyText.setSelectionRange(8, 128); 
     navigator.clipboard.writeText(copyText.value);
     var x = document.getElementById("toast")
     x.className = "show";
