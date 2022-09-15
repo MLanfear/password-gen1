@@ -6,8 +6,6 @@ My motivation for this app was to create an easy to use password generator for t
 Easy to install. Public repository able to be cloned to any individual machine.
 
 
-https://mlanfear.github.io/password-gen1/
-
 ```md
 ![passgen1](assets/images/passgen1.png)
 ![passgen2](assets/images/passgen2.png)
