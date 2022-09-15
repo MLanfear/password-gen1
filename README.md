@@ -6,15 +6,17 @@ My motivation for this app was to create an easy to use password generator for t
 Easy to install. Public repository able to be cloned to any individual machine.
 
 
-```md
+
 ![passgen1](assets/images/passgen1.png)
 ![passgen2](assets/images/passgen2.png)
 ![passgen3](assets/images/passgen3.png)
-```
+
 
 #Credits
 
 https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
+
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+
 https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
 
